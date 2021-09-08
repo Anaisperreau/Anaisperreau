@@ -1,0 +1,32 @@
+body {
+	background:rgb(240, 240, 240);
+	color: black;
+}
+
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center ;
+}
+
+.card-white {
+	background-color: blueviolet;
+	padding: 10px;
+	margin: 30px;
+	border-radius: 4px;
+	box-shadow: 10px 10px 20px;
+
+}
+
+.img-circle{ 
+	border-radius: 50%;
+}
+
+h1{
+	color: palevioletred;
+}
+
+h2{
+	color: mediumvioletred;
+}
+
